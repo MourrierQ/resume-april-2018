@@ -1,0 +1,27 @@
+.Hero {
+  text-align: center;
+  background-color: #083b55;
+  color: #fff;
+  position: relative;
+  grid-column: 1 / -1;
+}
+
+.Hero .textBox {
+  position: absolute;
+  text-align: left;
+  top: 50%;
+  left: 20px;
+  transform: translate(0, -50%);
+}
+
+.Hero .textBox h1 {
+  font-weight: 300;
+  font-size: 40px;
+  margin: 0;
+}
+
+.Hero .textBox h2 {
+  font-weight: 300;
+  font-size: 20px;
+  margin: 0;
+}

@@ -1,0 +1,23 @@
+.Contact {
+  margin-bottom: 20px;
+  color: #083b55;
+}
+
+.Contact h2 {
+  color: #083b55;
+}
+
+.Contact ul {
+  list-style: none;
+  padding: 0;
+}
+
+.Contact ul li {
+  padding-bottom: 10px;
+  font-size: 14px;
+}
+
+.Contact ul li span {
+  font-weight: 600;
+  font-size: 16px;
+}

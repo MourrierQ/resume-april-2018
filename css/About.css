@@ -1,0 +1,13 @@
+.About {
+  margin-top: 10px;
+  padding: 10px 20px;
+}
+
+.About h1 {
+  color: #083b55;
+  font-size: 18px;
+}
+
+.About p {
+  line-height: 1.5em;
+}
